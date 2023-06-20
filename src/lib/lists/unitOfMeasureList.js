@@ -1,0 +1,25 @@
+const unitOfMeasureList = [
+  'mm',
+  'millimètres',
+  'millimètre',
+  'millimetres',
+  'millimetre',
+  'millimeters',
+  'millimeter',
+  'cm',
+  'centimètres',
+  'centimètre',
+  'centimetres',
+  'centimetre',
+  'centimeters',
+  'centimeter',
+  '"',
+  "''",
+  'pouces',
+  'pouce',
+  'inches',
+  'inche',
+  'in',
+];
+
+module.exports = unitOfMeasureList;

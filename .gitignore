@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+src/node_modules
+
+credentials.json
+error_logs/*
+!error_logs/error logs here
+saved_images/*
+!saved_images/saved images here
+*.xls
+*.xlsx
+!formattingTemplate.xlsx
+!src/dataForTest.xlsx
